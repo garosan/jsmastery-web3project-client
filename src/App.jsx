@@ -1,4 +1,5 @@
 import { Navbar, Welcome, Footer, Services, Transactions } from './components';
+import './index.css';
 
 const App = () => {
   return (
